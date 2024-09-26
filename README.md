@@ -31,3 +31,8 @@
   <a href="https://www.linkedin.com/in/daianasg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:daianasg99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+
+
+
+![f3ffb2d584f09068aee6e9360dc13b34](https://github.com/user-attachments/assets/7f87bb27-c563-46b6-bfcb-805ef2a20aa6)
