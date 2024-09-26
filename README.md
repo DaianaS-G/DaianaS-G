@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0000&width=435&lines=Hi%2C+everyone!+I'm+Daiana+Guajardo.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://tenor.com/es/view/hazbin-hotel-slapping-bongo-cat-lucifer-gif-5339704408505869646" type="gif" align="right" width="200">
-
+<div class="tenor-gif-embed" data-postid="5339704408505869646" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hazbin-hotel-slapping-bongo-cat-lucifer-gif-5339704408505869646">Hazbin Hotel Slapping GIF</a>from <a href="https://tenor.com/search/hazbin+hotel-gifs">Hazbin Hotel GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
