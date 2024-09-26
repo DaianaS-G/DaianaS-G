@@ -18,8 +18,8 @@
 ### GitHub Stats
 
  <br/>
-    <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=narayanbavisetti&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbavisetti&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/DaianaS-G/github-readme-stats"><img alt="Daiana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DaianaS-G&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DaianaS-G/github-readme-stats"><img alt="Daiana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaS-G&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
