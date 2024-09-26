@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0000&width=435&lines=Hi%2C+everyone!+I'm+Daiana+Guajardo.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-![hazbin-hotel-slapping](https://github.com/user-attachments/assets/7bb94340-5f20-4f2a-844a-023d180abac0)
-
-
 <img src="https://github.com/user-attachments/assets/7bb94340-5f20-4f2a-844a-023d180abac0" alt="Gif" align="right" width="200">
 
 ### Technologies and tools:
