@@ -32,6 +32,3 @@
   <a href="mailto:daianasg99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
-![5Mz4](https://github.com/user-attachments/assets/36e85bc4-8889-43fe-9120-3a9f204698eb) ![5Mz4](https://github.com/user-attachments/assets/36e85bc4-8889-43fe-9120-3a9f204698eb) ![5Mz4](https://github.com/user-attachments/assets/36e85bc4-8889-43fe-9120-3a9f204698eb)
-
