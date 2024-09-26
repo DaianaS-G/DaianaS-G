@@ -8,7 +8,7 @@
 <div align="center"><h3>-`✮´- Sobre mi: -`✮´-</h3><div/><br/>
 ⟡Soy FullStackDev
 <br/>
-⟡Estoy haciendo un proyecto para enseñar programacion en Youtube
+⟡Estoy haciendo un proyecto para enseñar programacion en <a href="https://www.youtube.com/channel/UCSSZ4QL1gdLed4lkV3_tqRA"> Youtube </a>
 <br/>
 ⟡Me encanta tomarme mi tiempo al crear para que todo quede perfecto❀
 
