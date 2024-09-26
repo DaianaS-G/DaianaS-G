@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0000&center=true&width=435&lines=Hi%2C+everyone!+I'm+Daiana+Guajardo.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/7bb94340-5f20-4f2a-844a-023d180abac0" alt="Gif" align="right" width="200">
+<br>
+<img src="https://github.com/user-attachments/assets/6520986f-9557-40e8-bf35-446a0fbb8930" alt="Gif" align="right" width="200">
 
 ### Technologies and tools:
 
