@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=900&size=32&pause=1000&color=C00000&center=true&vCenter=true&width=1000&lines=Hi!+everyone+%E2%99%A1;I'm+Daiana+S.+Guajardo;%E2%99%A1Welcome+to+my+GitHub%E2%99%A1)](https://git.io/typing-svg)
 
+
 <br/>
 <img src="https://github.com/user-attachments/assets/6520986f-9557-40e8-bf35-446a0fbb8930" alt="Gif" align="right" width="200">
 
@@ -28,6 +29,7 @@
   <br/>
 
 <br/>
+
 ### Contact
 
 <div> 
