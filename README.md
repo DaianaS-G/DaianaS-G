@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Daiana+Guajardo.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0000&width=435&lines=Hi%2C+everyone!+I'm+Daiana+Guajardo.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
@@ -21,8 +21,6 @@
     <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=narayanbavisetti&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbavisetti&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
