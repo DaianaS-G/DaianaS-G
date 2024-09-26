@@ -35,3 +35,4 @@
   <a href="mailto:daianasg99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=900&size=32&pause=1000&color=C00000&background=00000018&center=true&vCenter=true&width=900&lines=%E2%98%86%C2%A1Gracias+por+ver+mi+perfil!%E2%98%86;%E2%98%86Thx+to+watch+my+profile%E2%98%86)](https://git.io/typing-svg)
