@@ -18,14 +18,12 @@
 
  <br/>
     <a href="https://github.com/DaianaS-G/github-readme-stats#gh-dark-mode-only"><img alt="Daiana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DaianaS-G&show_icons=true&count_private=true&theme=vision-friendly-dark#gh-dark-mode-only&hide_border=true&bg_color=0D1117" /></a>
-    
-  <a href="https://github.com/DaianaS-G/github-readme-stats#gh-dark-mode-only"><img alt="Daiana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaS-G&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark#gh-dark-mode-only&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/DaianaS-G/github-readme-stats#gh-dark-mode-only"><img alt="Daiana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaS-G&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark#gh-dark-mode-only&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
  <br/>
     <a href="https://github.com/DaianaS-G/github-readme-stats#gh-light-mode-only"><img alt="Daiana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DaianaS-G&show_icons=true&count_private=true&theme=shadow_red#gh-light-mode-only&hide_border=true&bg_color=0D1117" /></a>
-    
-  <a href="https://github.com/DaianaS-G/github-readme-stats#gh-light-mode-only"><img alt="Daiana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaS-G&langs_count=8&count_private=true&layout=compact&theme=shadow_red#gh-light-mode-only&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/DaianaS-G/github-readme-stats#gh-light-mode-only"><img alt="Daiana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaS-G&langs_count=8&count_private=true&layout=compact&theme=shadow_red#gh-light-mode-only&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
