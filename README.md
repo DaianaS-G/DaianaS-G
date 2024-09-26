@@ -3,7 +3,22 @@
 
 <br/>
 <img src="https://github.com/user-attachments/assets/6520986f-9557-40e8-bf35-446a0fbb8930" alt="Gif" align="right" width="200">
+<img src="https://github.com/user-attachments/assets/6520986f-9557-40e8-bf35-446a0fbb8930" alt="Gif" align="left" width="200">
 
+<div align="center"><h2>-`✮´- Sobre mi: -`✮´-</h2><div/><br/>
+  - Soy FullStackDev
+  <br/>
+  - Estoy haciendo un proyecto para enseñar programacion en Youtube
+  <br/>
+  - Me encanta tomarme mi tiempo al crear para que todo quede perfecto ❀
+
+  
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="left">
+  
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
